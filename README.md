@@ -12,7 +12,7 @@
 
 # Introduction
 
-The Transfeera API enables external applications to communicate with your account on our platform. This document explains the methods that are available.
+The ContaCerta API provides you a simple way to validate bank account data, and get suggestions on errors.
 
 
 # Authentication
