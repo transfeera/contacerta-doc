@@ -17,7 +17,7 @@ The ContaCerta API provides you a simple way to validate bank account data, and 
 
 # Authentication
 
-In case you want to use our API please contact us by email at contato@transfeera.com, and we will give your API key.
+In case you want to use our API please contact us by email at contato@transfeera.com, and we will give you an API key.
 
 With the token you obtained, on every request to our API include a header with the token like this:
 ```
