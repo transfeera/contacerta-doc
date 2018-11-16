@@ -65,9 +65,9 @@ Use the default bank code assigned by FEBRABAN. Check a full list at https://www
 ```
 
 ### Response
-You will get the same dta you sent, with and additional object `_validation`, that will include the result of the validation, and our suggestions, if available.
+You will get the same data you sent, with and additional object `_validation`, that will include the result of the validation, and our suggestions, if available.
 
-If all teh data sent is valid, you will get:
+If all the data sent is valid, you will get:
 ```json
 "_validation": {
   "valid": true,
