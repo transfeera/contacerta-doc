@@ -37,7 +37,7 @@ User-Agent: Company (contact@company.com)
 The API only supports JSON, we will not support another format. Even if you do not use the `Content-Type: application / json; charset = utf-8` the response will be in JSON and with charset utf-8.
 
 # Supported account types
-- CONTA_CORRENTE: Current account
+- CONTA_CORRENTE: Checking account
 - CONTA_POUPANCA: Savings account
 - CONTA_FACIL: "conta fácil" account for Caixa Econômica and Banco do Brasil
 - ENTIDADES_PUBLICAS: "entidades públicas" account for Caixa Econômica
