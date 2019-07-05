@@ -88,7 +88,7 @@ Or, if there is something wrong, the result will be similar to this:
         "agency_digit": "3"
       },
       "errorCode": "DBA_19",
-      data: null
+      "data": null
     }
   ]
 }
