@@ -87,7 +87,7 @@ Or, if there is something wrong, the result will be similar to this:
       "suggestion": {
         "agency_digit": "3"
       },
-      errorCode: "DBA_19",
+      "errorCode": "DBA_19",
       data: null
     }
   ]
