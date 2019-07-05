@@ -18,7 +18,7 @@ They contain:
   errorCode: "DBA_7",
   field: "account",
   variable: ['maxLength', 'minLength'],
-  message: "Conta é obrigatória e deve conter entre {{minLength}} e {{maxLength}} números"
+  message: "Conta é obrigatória e deve conter entre 7 e 8 números"
 }
 ```
 
