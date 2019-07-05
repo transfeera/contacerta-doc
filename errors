@@ -11,10 +11,6 @@ They contain:
 #### Example of response
 ```
 {
-  data: {
-    maxLength: 8,
-    minLength: 7
-  },
   errorCode: "DBA_7",
   field: "account",
   variable: ['maxLength', 'minLength'],
