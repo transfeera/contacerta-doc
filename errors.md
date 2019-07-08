@@ -19,6 +19,7 @@ They contain:
 
 ## Errors
 **Some error codes have more than one message, these multiple error messages will be removed until august 12th leaving all errors with only one message**
+
 | Code     | message                                                                                         |
 |----------|-------------------------------------------------------------------------------------------------|
 | DBA_1    | "Dígito da agência é obrigatório e deve ser numérico ou x"                                      |
