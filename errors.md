@@ -40,10 +40,7 @@ They contain:
 | DBA_15   | "O nome deve ter no mínimo 2 palavras" or "Nome completo é obrigatório"                         |
 | DBA_19   | "Dígito da Agência não é válido"                                                                |
 | DBA_20   | "Conta ou dígito verificador da conta inválido.",                                               |
-|          | "Agência, tipo da conta, conta ou dígito verificador da conta inválido.",                       |
 |          | "Dígito verificador da conta inválido.",                                                        |
-|          | "Agência, Conta ou dígito verificador da conta inválido." or                                    |
-|          | "Agência, conta ou dígito verificador da conta inválido."                                       |
 | DBA_21   | "Conta inválida."                                                                               |
 | DBA_22   | "Agência não existe"                                                                            |
 | DBA_23   | "Documento não existe",                                                                         |
@@ -51,3 +48,6 @@ They contain:
 | DBA_26   | "Conta inválida. O inicio da conta {{accountBeginning}} não é reconhecido como um tipo válido." |
 | DBA_27   | "CNPJ {{document}} inválido"                                                                    |
 | DBA_28   | "CPF {{document}} inválido"                                                                     |
+| DBA_29   | "Agência, tipo da conta, conta ou dígito verificador da conta inválido."                        |
+| DBA_30   | "Agência, Conta ou dígito verificador da conta inválido." or                                    |
+|          | "Agência, conta ou dígito verificador da conta inválido."                                       |
