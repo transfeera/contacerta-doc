@@ -1,3 +1,6 @@
+## ⚠️ This documentation is deprecated, please use the following link to get the latest docs https://docs.transfeera.dev/#/contacerta.
+
+
 # Summary
 
 - [Introduction](#introduction)
